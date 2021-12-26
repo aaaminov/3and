@@ -1,0 +1,20 @@
+[
+  {
+    "Number": 1,
+    "Fio": "arslan",
+    "DateBirth": "08.12",
+    "NamesFlights": [ "mosk - ufa", "mosk - kazah", "ufa - ufa", "ufa - kazah" ]
+  },
+  {
+    "Number": 2,
+    "Fio": "aminov",
+    "DateBirth": "12.08",
+    "NamesFlights": [ "mosk - ufa", "ufa - kazah", "mosk - kazah" ]
+  },
+  {
+    "Number": 3,
+    "Fio": "ars am",
+    "DateBirth": "12.12",
+    "NamesFlights": [ "mosk - kazah" ]
+  }
+]
